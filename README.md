@@ -84,7 +84,7 @@ install_swift() {
 }
 ```
 
-Then, PATH and JAVA_HOME was set as well.
+Then, PATH was set as well.
 
 ## How Cloud Foundry CLI Was Added?
 
